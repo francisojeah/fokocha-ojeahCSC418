@@ -28,7 +28,7 @@ fokocha-ojeahCSC418
 │   │   ├── project-2.ipynb
 │   │   └── ...
 │   │
-│   └── img
+│   └── images
 │       ├── exercise-images
 │       │   ├── practice-image1.png
 │       │   ├── practice-image2.jpg
@@ -50,7 +50,7 @@ fokocha-ojeahCSC418
 │   │   ├── project-2.ipynb
 │   │   └── ...
 │   │
-│   └── img
+│   └── images
 │       ├── exercise-images
 │       │   ├── practice-image1.png
 │       │   ├── practice-image2.jpg
@@ -74,7 +74,7 @@ fokocha-ojeahCSC418
     │   ├── project-2.ipynb
     │   └── ...
     │
-    └── img
+    └── images
         ├── exercise-images
         │   ├── practice-image1.png
         │   ├── practice-image2.jpg
