@@ -10,10 +10,80 @@ The content in this repository is licensed under the [MIT License](LICENSE), all
 
 ## Folder Structure
 The repository is structured as follows:
-- **Week 1**: Contains materials for Week 1, including exercises and projects.
-- **Week 2**: Contains materials for Week 2, including exercises and projects.
+- **week-1**: Contains materials for Week 1, including exercises and projects.
+- **week-2**: Contains materials for Week 2, including exercises and projects.
 - ...
-- **Week N**: Contains materials for Week N, including exercises and projects.
+- **week-N**: Contains materials for Week N, including exercises and projects.
+
+fokocha-ojeahCSC418
+│
+├── week-1
+│   ├── exercises
+│   │   ├── practice-1.ipynb
+│   │   ├── practice-2.ipynb
+│   │   └── ...
+│   │
+│   ├── projects
+│   │   ├── project-1.ipynb
+│   │   ├── project-2.ipynb
+│   │   └── ...
+│   │
+│   └── img
+│       ├── exercise-images
+│       │   ├── practice-image1.png
+│       │   ├── practice-image2.jpg
+│       │   └── ...
+│       │
+│       └── project-images
+│           ├── project-image1.png
+│           ├── project-image2.jpg
+│           └── ...
+│
+├── week-2
+│   ├── exercises
+│   │   ├── practice-1.ipynb
+│   │   ├── practice-2.ipynb
+│   │   └── ...
+│   │
+│   ├── projects
+│   │   ├── project-1.ipynb
+│   │   ├── project-2.ipynb
+│   │   └── ...
+│   │
+│   └── img
+│       ├── exercise-images
+│       │   ├── practice-image1.png
+│       │   ├── practice-image2.jpg
+│       │   └── ...
+│       │
+│       └── project-images
+│           ├── project-image1.png
+│           ├── project-image2.jpg
+│           └── ...
+│
+├── ...
+│
+└── week-N
+    ├── exercises
+    │   ├── practice-1.ipynb
+    │   ├── practice-2.ipynb
+    │   └── ...
+    │
+    ├── projects
+    │   ├── project-1.ipynb
+    │   ├── project-2.ipynb
+    │   └── ...
+    │
+    └── img
+        ├── exercise-images
+        │   ├── practice-image1.png
+        │   ├── practice-image2.jpg
+        │   └── ...
+        │
+        └── project-images
+            ├── project-image1.png
+            ├── project-image2.jpg
+            └── ...
 
 ## Usage
 Feel free to explore the contents of each week's folder to access the associated exercises and projects. You are encouraged to fork this repository or download the materials for your personal use or to contribute improvements.
